@@ -1,15 +1,25 @@
-### Hi there, This is Hasnain Ali (Full Stack Developer) 👋:smile: 7 Years of Experience :muscle:
+###Hi there! I'm Hasnain Ali 👋🙂
+🚀 Full Stack Developer | React & React Native Specialist | 7+ Years of Experience
+🔹 Passionate about crafting scalable web & mobile applications with modern technologies.
+🔹 Enthusiastic about AI & Machine Learning, always eager to explore new innovations.
 
+###🔥 What I Do
+-🏗 Full-Stack Development – Proficient in front-end & back-end technologies.
+-📱 React & React Native – Building seamless web & mobile experiences.
+-☁ Cloud & Firebase – Scalable backend solutions for modern applications.
+-🧪 Continuous Learning – Currently exploring Python & Unit Testing.
+-🤝 Collaboration – Open to AI/ML projects & tech innovations.
 
-- 🔭 I’m a React/ React Native Developer :heavy_plus_sign: Full Stack Developer
-- 🌱 I’m currently learning Python/Unit Testing
-- 👯 I’m looking to collaborate on Artificial Intelligence & Machine Learning
-- 🤔 I’m looking for help with Building an end-to-end AI project
-- 💬 Ask me about anything related to programming :heavy_plus_sign: Javascript(Frameworks,Libraries)
-- 📫 How to reach me: mjhasnain@gmail.com
-- ⚡ Fun fact: Do whatever you want to do, do double but don't trouble
+###💬 Let's Connect!
+-📩 Email: mjhasnain@gmail.com
+-📌 LinkedIn: [Your LinkedIn Profile]
+-💻 GitHub: [Your GitHub Profile]
 
+###🛠 Tech Stack & Skills
+-Frontend: HTML5, CSS3, JavaScript (ES6+), ReactJS, React Native, PWA, Java, Angular, Ionic, Flutter.
+-Backend: Node.js, Express.js, Firebase, MongoDB, MySQL, PHP, Laravel, GraphQL
+-State Management: Redux, Context API, Redux Query, Toolkit
+-Others: TypeScript, Electron.js, Bootstrap, REST APIs, IoT
 
-### My Skills :computer:
-
-HTML5, CSS3, Javascript, Ecma Script,  ReactJS, React Native, PWA, Google Firebase, NodeJS, MongoDB, MySQL, React Redux, Typescript, ElectronJS, Bootstrap
+###⚡ Fun Fact: 
+"Do whatever you want to do, do double, but don't trouble!" 😄
