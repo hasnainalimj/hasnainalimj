@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there! I'm Hasnain Ali 👋🙂 </h1>  
-<h3 align="center"> 🚀 Full Stack Developer | React & React Native Specialist | 7+ Years of Experience </h3>  
+<h3 align="center"> 🚀 Full Stack Developer | React & React Native Specialist | 9+ Years of Experience </h3>  
 
 <p align="center">
 🔹 Passionate about crafting scalable web & mobile applications with modern technologies.  
